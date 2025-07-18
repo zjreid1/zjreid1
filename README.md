@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+  ______   _        ____  
+ |__  (_)_(_) ___  |  _ \ 
+   / / / _ \ / _ \ | |_) |
+  / /_| (_) |  __/ |  _ < 
+ /____|\___/ \___| |_| \_\
+                          
+```
+Welcome to my corner of the internet!
